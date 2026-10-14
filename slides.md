@@ -93,7 +93,7 @@ Quando scegli un desktop scegli:
 ---
 
 ## COME INIZIARE A CONTRIBUIRE
-Mi annoiavo a lezoine
+Mi annoiavo a lezione
 --
 Soluzione: e se provassi a modificare i file di sistema per rendere tutto trasparente?
 ![Plasma 5.13 con trasparenze, 2018](img/mondo/plasma-5-13-kwin-blur-trasparenza-2018.png)
