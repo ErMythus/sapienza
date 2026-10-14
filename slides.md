@@ -31,7 +31,7 @@ Storia PERSONALE di Niccolò Venerandi e consigli per chi volesse provarci
 ---
 
 ## COME PASSARE A LINUX
-- primo tentativo: ho seguito una guida per creare un virus su Windows e ho controlato se funzionava (funzionava)
+- primo tentativo: ho seguito una guida per creare un virus su Windows e ho controllato se funzionava (funzionava)
 ![](img/mondo/windows-xp-bsod.png)
 
 ---
