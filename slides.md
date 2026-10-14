@@ -121,7 +121,7 @@ Ho passato due giorni di ANSIA che stessi sbagliando qualcosa
 
 ---
 
-Passaggi necessari:
+Passaggi necesari:
 - Account KDE
 - Clonare i repo
 - Buildare tutto
@@ -239,7 +239,7 @@ Chi comanda in KDE?
 --
 Nessuno
 --
-Decide chi fa il lavoro: le idee si discutono, il codice passa in review, si va avanti per consenzo
+Decide chi fa il lavoro: le idee si discutono, il codice passa in review, si va avanti per consenso
 (i Goal sono l'esempio perfetto: chiunque ne propone uno, vota la comunità. Anche se sei un liceale in spiaggia)
 ![](img/meme/meme-chi-comanda.jpg)
 
