@@ -114,7 +114,7 @@ Altrimenti: oh no (meme image)
 
 ## COME FARE LA PRIMA PATCH
 Qualche giorno dopo la lezione
-Ho corretto un errore di battiture in una stringa
+Ho corretto un errore di battitura in una stringa
 --
 Ho passato due giorni di ANSIA che stessi sbagliando qualcosa
 ![](img/meme/meme-prima-patch-ansia.jpg)
