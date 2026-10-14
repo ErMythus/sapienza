@@ -74,7 +74,7 @@ Note: TOP500: 100% Linux in ogni lista da nov 2017 a giu 2026. Android 69,17% de
 {.side}
 ### Intanto, nel mondo open source
 Software libero: puoi usarlo, studiarlo, modificarlo e ridistribuirlo
-(licenze come la GPL aggiungono: se lo ridistribuisci modificato, le tue modifche restano libere)
+(licenze come la GPL aggiungono: se lo ridistribuisci modificato, le tue modifiche restano libere)
 --
 Libero come in «libertà», non come in «birra gratis»
 ![](img/mondo/gplv3-free-as-in-freedom.png)
