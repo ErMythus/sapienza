@@ -121,7 +121,7 @@ Ho passato due giorni di ANSIA che stessi sbagliando qualcosa
 
 ---
 
-Passaggi necesari:
+Passaggi necessari:
 - Account KDE
 - Clonare i repo
 - Buildare tutto
