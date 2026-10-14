@@ -176,7 +176,7 @@ Note: 2.454 parole nella versione inviata il 13 giugno 2019; 3.052 in quella vot
 ---
 
 <!-- NUOVO -->
-### Cosa non mi piaceav
+### Cosa non mi piaceva
 ![](img/storia/kde-apps-2019-inconsistent-sidebars-navigation.png)
 ![](img/storia/kde-apps-2019-inconsistent-tabs.png)
 
@@ -301,7 +301,7 @@ Infatti in KDE ci sono interi team che non programmano:
 ---
 
 ## COME CERCARE DI FARE COLPO
-Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosos
+Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosso
 Mi mandano un link a una diretta di Valve. Mi metto le cuffie mentre vado in università (sono in ritardo)
 --
 Annunciano lo SteamDeck
