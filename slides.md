@@ -466,7 +466,7 @@ Note: parli tu. Promemoria:
 ## COME INIZIARE (DAVVERO)
 Se volete programmare:
 - Season of KDE: un progetto con un mentor, candidature a dicembre, lavoro da gennaio a marzo
-- Google Summer of Code: uguale, ma PAGATO (candidature a marzo, lavoro d'estatte)
+- Google Summer of Code: uguale, ma PAGATO (candidature a marzo, lavoro d'estate)
 - I bug marcati «junior-jobs» su bugs.kde.org (oggi ce ne sono 256)
 ![](img/kde/kde-season-of-kde-2026-timeline.png)
 Note: date dell'edizione 2026. SoK 2026: candidature 15 dic – 14 gen, lavoro 23 gen – 20 mar. GSoC 2026: candidature 16–31 mar, lavoro 25 mag – fine ago; in Italia 1.200 / 2.400 / 4.800 $ a seconda della taglia. Le date 2027 non sono ancora uscite.
