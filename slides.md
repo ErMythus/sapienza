@@ -163,7 +163,7 @@ Nonostante questo decido che rivoluzionerò KDE!
 
 ### KDE Goals
 Si scelgono ogni due anni
-Chiunque può porporne uno
+Chiunque può proporne uno
 ![La votazione dei Goal 2019 su Phabricator](img/storia/phabricator-goal-setting-2019-board-selected.png)
 
 ---
