@@ -24,8 +24,8 @@
 -->
 <!-- theme: plasma -->
 
-# Come l'Open Source ti campia la vita
-Storia PERSONALE di Nicccolò Venerandi e consigli per chi volesse provarci
+# Come l'Open Source ti cambia la vita
+Storia PERSONALE di Niccolò Venerandi e consigli per chi volesse provarci
 
 
 ---
@@ -42,7 +42,7 @@ Secondo tentativo: sono diventato adolescente
 ---
 
 ## COME SCEGLIERE IL PROPRIO DESKTOP
-la sera prima del mio campo scuot ho pensato: proviamo qualche desktop!
+la sera prima del mio campo scout ho pensato: proviamo qualche desktop!
 ho provato KDE
 --
 (sono andato a dormire alle quattro di notte)
